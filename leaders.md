@@ -1,3 +1,4 @@
 ### Leaders
 
-* [Christian Diaz](chrizdv@hotmail.com)
+* [Christian Diaz](mailto:)
+* [Christopher Frenz](mailto:)
