@@ -33,18 +33,18 @@ type: documentation
 </ul>
 <h2 id="download">Download</h2>
 <ul>
-<li><a href="https://www.owasp.org/images/6/64/Anti-RansomwareGuidev1-7.pdf">Version 1.7</a></li>
-<li><a href="https://www.owasp.org/images/c/ca/Anti-RansomwareGuidev1-6.pdf">Version 1.6</a></li>
-<li><a href="https://www.owasp.org/images/4/4a/Anti-RansomwareGuidev1-5.pdf">Version 1.5</a></li>
-<li><a href="https://www.owasp.org/images/9/98/Anti-RansomwareGuidev1-4.pdf">Version 1.4</a></li>
-<li><a href="https://www.owasp.org/images/5/5f/Anti-RansomwareGuidev1-3.pdf">Version 1.3</a></li>
-<li><a href="https://www.owasp.org/images/8/8b/Anti-RansomwareGuidev1-2.pdf">Version 1.2</a></li>
-<li><a href="https://www.owasp.org/images/d/d3/Anti-RansomwareGuidev1-1.pdf">Version 1.1</a></li>
-<li><a href="https://www.owasp.org/images/a/a8/Anti-RansomwareGuide.pdf">Version 1.0</a></li>
+<li><a href="/www-pdf-archive/Anti-RansomwareGuidev1-7.pdf">Version 1.7</a></li>
+<li><a href="/www-pdf-archive/Anti-RansomwareGuidev1-6.pdf">Version 1.6</a></li>
+<li><a href="/www-pdf-archive/Anti-RansomwareGuidev1-5.pdf">Version 1.5</a></li>
+<li><a href="/www-pdf-archive/Anti-RansomwareGuidev1-4.pdf">Version 1.4</a></li>
+<li><a href="/www-pdf-archive/Anti-RansomwareGuidev1-3.pdf">Version 1.3</a></li>
+<li><a href="/www-pdf-archive/Anti-RansomwareGuidev1-2.pdf">Version 1.2</a></li>
+<li><a href="/www-pdf-archive/Anti-RansomwareGuidev1-1.pdf">Version 1.1</a></li>
+<li><a href="/www-pdf-archive/Anti-RansomwareGuide.pdf">Version 1.0</a></li>
 </ul>
 <h2 id="spanish_translation">Spanish Translation</h2>
 <ul>
-<li><a href="https://www.owasp.org/images/3/39/Guia_Contra_Ransomware.pdf">Spanish Version 1.4</a></li>
+<li><a href="/www-pdf-archive/Guia_Contra_Ransomware.pdf">Spanish Version 1.4</a></li>
 </ul>
 <h2 id="presentation">Presentation</h2>
 <ul>
@@ -117,7 +117,7 @@ expert in order to contribute. Some of the ways you can help:
 
 __NOTOC__ <headertabs />
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Builders](Category:OWASP_Builders )
+[Category:OWASP_Defenders](Category:OWASP_Defenders )
+[Category:OWASP_Document](Category:OWASP_Document )
