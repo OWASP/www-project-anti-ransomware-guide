@@ -9,6 +9,37 @@ type: documentation
 auto-migrated: 1
 
 ---
+# Main
+
+Open up any newspaper or news site and an increasingly common headline is becoming “hospital held for ransom”. While hospitals and other organizations often have downtime procedures that let them revert back to paper for dealing with power outages and other disasters, it is still a nightmare scenario to find your entire organization's IT infrastructure screeching to a halt all because someone clicked on a malicious link or opened a questionable email attachment. Moreover, many organizations have a significant number of legacy systems that make security a challenge and beyond very basic security provisions often do not have a corporate culture that is heavily focused on information security. This has left many organizations struggling with how to handle ransomware attacks. The below is meant to serve as a comprehensive defense in depth based checklist and guide to preventing ransomware from taking a foothold in your organization as well as ensuring the proper procedures are in place to deal with an actual ransomware outbreak in your environment. Given the prevalence of Windows systems as ransomware targets, the guide is geared towards a Windows environment but is designed to be product agnostic. Please note that the list is designed to be comprehensive and as such not all controls may be applicable to all environments.
+
+# Project Decsription 
+
+A guide and checklist organizations can use as the basis for creating a defense in depth strategy for combating ransomware and other types of malware.
+
+# Licensing
+
+'''The OWASP Anti-Ransomware guide is free to use. In fact it is encouraged
+
+The OWASP Anti-Ransomware Guide is licensed under the Creative Commons Attribution-ShareAlike 3.0 license, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+</td>
+
+- Christopher M Frenz
+- Christian Diaz
+
+
+ 
+ 
+ 
+    
+   
+    
+    
+    
+    
+    
+
+
 
 
 <!-- Standard Chapter Page Template
